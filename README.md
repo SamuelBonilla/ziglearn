@@ -51,6 +51,3 @@ Para preguntas relacionadas con el proyecto, puedes contactarme a través de:
 - YouTube: [Mi Canal](https://www.youtube.com/@codigohouse/videos)
 - Telegram: https://t.me/+TuqWR0w6W5o1MDAx
 
----
-
-Obviamente, deberías personalizarlo según las necesidades y características específicas de tu proyecto. ¡Espero que esto te sirva como punto de partida!
